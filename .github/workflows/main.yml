@@ -7,7 +7,7 @@ jobs:
     steps:
       - name: Hello world action step
         id: hello
-        uses: actions/cloudsss@v2
+        uses: Olifira/cloudsss@v2
         with:
           who-to-greet: 'Hello Alina'
       # Use the output from the `hello` step
